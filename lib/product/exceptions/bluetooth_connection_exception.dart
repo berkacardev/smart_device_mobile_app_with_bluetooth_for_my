@@ -1,0 +1,1 @@
+class BluetoothConnectionException implements Exception{}
